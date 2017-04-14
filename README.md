@@ -3,6 +3,7 @@ A program that takes in a Nondeterministic Finite Automaton specification in the
 
 Input Format:
   -the first line specifies all the states of the NFA seperated by tab character delimiters
+  -all state identifiers are enclosed in curly brackets
   -the second line specifies the input alphabet for the recognized regular language
   -the third line specifies the start state of the NFA
   -the fourth line specifies the end states of the NFA seperated by tab character delimiters
